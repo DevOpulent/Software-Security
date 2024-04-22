@@ -3,7 +3,7 @@
 
 # Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address? 
 Artemis Financial is a financial services company that handles sensitive financial data and also deals with cross-border data transfers. 
-Their software requirements focused on secure communication and data encryption. The key issues they wanted me to address included threats like SQL injection, Distributed Denial of Service (DDoS) attacks, and the need for compliance with international regulations. They required efficient security measures to safeguard sensitive information and ensure business continuity
+Their software requirements focused on secure communication and data encryption. The key issues they wanted me to address included threats like SQL injection, Distributed Denial of Service (DDoS) attacks, and the need for compliance with international regulations. They required efficient security measures to safeguard sensitive information and ensure business continuity.
 
 # What did you do very well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
 In my addressing of software security vulnerabilities, I performed a comprehensive code review in order to identify potential risks. This included checking for injection vulnerabilities and hardcoded sensitive information. It's important to code securely to prevent data breaches and ensure business operations are not disrupted. Software security adds significant value to a company's wellbeing by protecting sensitive data, maintaining customer trust, and reducing the risk of reputational damage​​.
